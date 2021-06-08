@@ -9,7 +9,7 @@ https://stackoverflow.com/questions/496664/c-dynamic-shared-library-on-linux
 
 with the https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization answer and initial code examples
 
-## Additions
+## additions
 I added trace calls and a Makefile
 
 ## make and run the lazy way
